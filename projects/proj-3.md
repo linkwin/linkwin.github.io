@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Last Vikinh'
+title: 'The Last Viking'
 ---
 
 Currently in development at 
