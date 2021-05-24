@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rusty's Release'
+title: 'Rustys Release'
 ---
 
 Made in 2 weeks for Adventure Game Jam.
