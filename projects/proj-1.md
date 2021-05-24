@@ -6,7 +6,7 @@ title: 'Jet Johnson and the Planet of Doom'
 Currently in development with the same core team I worked
 with on [Rusty's Release](https://linkwin.github.io/projects/proj-1)
 
-# Contributions
+### Contributions
 
 I have been the sole programmer on this project. We are using Unreal Engine 4 for the development. 
 While much of the gameplay comes from 3rd party assets, I have written custom blueprints for the following features:
@@ -25,4 +25,4 @@ I have listed more specifics below:
 * AI toolkit integration with custom spawner
 * Custom 3D model implementation
 
-{% include image.html url="https://www.droppunk.com/our-project.html" image="projects/proj-1/JJScreen1.jpg" %}
+{% include image.html url="https://www.droppunk.com/our-project.html" image="projects/proj-1/JJScreen1.jpg" text="View Project"%}
