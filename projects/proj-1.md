@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project One'
+title: '[Jet Johnson and the Planet of Doom](https://www.droppunk.com/our-project.html)'
 ---
 
 [Jet Johnson and the Planet of Doom](https://www.droppunk.com/our-project.html)
