@@ -5,17 +5,18 @@ title: About
 
 # About me
 
-Hello! My name is Alan, I am most prominently a unity developer, however 
-I have used many different engines, frameworks, and programming languages.
-If you are interested to see my work and what I
-am currently working on go check out my projects. I plan to update the blog with
-current project progress and milestones also. I am an indie dev, I have
-A strong interest in AI programming and real time simulation.
-Most of my experience is in unity with C# scripting.
+Hello! My name is Alan! I have been a hobby developer for about 5 years now. Most of my experience has been with the Unity game engine, however I have used many 
+different engines, frameworks, and programming languages.
+If you would like to see my past and current work, [check out my projects](https://linkwin.github.io/). I have a strong passion for AI programming and real time 
+simulation. I feel most productive writting C# scripts in unity. I am also very proficient with Blueprints in Unreal Engine 4. I originally learned programming
+in university with java and command line, which gave me solid fountational skills I have been building on ever since. I take pride in my ability to pick up new
+engines and frameworks quickly. I am constantly learning new ideas and ways to be more productive and efficient. I consider myself reliable and transparent. I value
+critisism highly and strive to only get better at my craft.
 
-If you are interested in hiring me, keep reading below and feel free to [contact me](https://linkwin.github.io/contact). 
+If you are interested in hiring me, below is a list of skills applicable directly to game development. Feel free to [contact me](https://linkwin.github.io/contact) 
+for more information or just to chat!
 
-## Skills
+# Skills
 * C# proficiency
 * C/C++ family familiarity
 * Unity proficiency
