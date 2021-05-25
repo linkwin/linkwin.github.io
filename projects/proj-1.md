@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jet Johnson and the Planet of Doom'
+title: 'Jet Johnson'
 ---
 
 Currently in development with the same core team I worked
