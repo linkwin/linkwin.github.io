@@ -4,7 +4,7 @@ title: 'Jet Johnson'
 ---
 
 Currently in development with the same core team I worked
-with on [Rusty's Release](https://linkwin.github.io/projects/proj-1)
+with on [Rusty's Release](https://linkwin.github.io/projects/proj-2)
 
 ### Contributions
 
