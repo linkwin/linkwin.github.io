@@ -6,6 +6,8 @@ title: 'Jet Johnson'
 Currently in development with the same core team I worked
 with on [Rusty's Release](https://linkwin.github.io/projects/proj-2)
 
+{% include image.html url="https://www.droppunk.com/our-project.html" image="projects/proj-1/JJScreen1.jpg" text="View Project"%}
+
 ### Contributions
 
 I have been the sole programmer on this project. We are using Unreal Engine 4 for the development. 
@@ -24,5 +26,3 @@ I have listed more specifics below:
 * Animation BP modifications
 * AI toolkit integration with custom spawner
 * Custom 3D model implementation
-
-{% include image.html url="https://www.droppunk.com/our-project.html" image="projects/proj-1/JJScreen1.jpg" text="View Project"%}
